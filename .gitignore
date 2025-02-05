@@ -19,3 +19,5 @@ UserSettings
 Assembly-CSharp-Editor.csproj
 Assembly-CSharp.csproj
 Challenge 1
+*.prefab
+*.prefab.meta
