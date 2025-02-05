@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class FoodMovingForward : MonoBehaviour
+public class MoveForward : MonoBehaviour
 {
     public float speed = 40.0f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
