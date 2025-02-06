@@ -3,8 +3,8 @@ using UnityEngine;
 public class SpawnManager : MonoBehaviour
 {
     public GameObject[] animalPrefabs;
-    private float spawnRangeX = 20.0f;
-    private float spawnRangeZ = 20.0f;
+    private float spawnRangeX = 15.0f;
+    private float spawnRangeZ = 15.0f;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
